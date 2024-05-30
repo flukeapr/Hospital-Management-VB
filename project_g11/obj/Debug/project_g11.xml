@@ -1,0 +1,576 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+project_g11
+</name>
+</assembly>
+<members>
+<member name="T:project_g11.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:project_g11.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:project_g11.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:project_g11.My.Resources.Resources._8eb7301f02db8e5f58b8471f425a2871_hd_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:project_g11.My.Resources.Resources._8eb7301f02db8e5f58b8471f425a2871_hd_removebg_preview1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:project_g11.My.Resources.Resources.login">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:project_g11.My.Resources.Resources.login1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:project_g11.My.Resources.Resources.pa">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:project_g11.My.Resources.Resources.png_clipart_button_arrow_back_arrow_blue_trademark_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:project_g11.My.Resources.Resources.R">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:project_g11.My.Resources.Resources.R_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:project_g11.My.Resources.Resources.staff">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:project_g11.My.Resources.Resources.staff_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:project_g11.My.Resources.Resources.staff_removebg_preview__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:project_g11.My.Resources.Resources.staff_removebg_preview1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:project_g11.My.Resources.Resources.staff1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:project_g11.My.Resources.Resources.tr">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:project_g11.My.Resources.Resources.user">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:project_g11.My.Resources.Resources.ward">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:project_g11.My.Resources.Resources.พื้นหลังงงง">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.WardsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.admitted_wardDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.apply_wardsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.medicineDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.patientDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.staffDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.TreatmentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.bedDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.roomDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.Work_inDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.Work_in_viewDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.MedicationDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.view_medicationDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.view_search_shiftDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.view_sum_patientDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.view_apply_wardsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.qulificationDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.work_experienceDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.view_staff_in_wardsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.view_sum_medicationDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.view_sum_staff_in_wardsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.WardsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.admitted_wardRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.apply_wardsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.medicineRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.patientRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.staffRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.TreatmentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.bedRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.roomRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.Work_inRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.Work_in_viewRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.MedicationRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.view_medicationRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.view_search_shiftRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.view_sum_patientRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.view_apply_wardsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.qulificationRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.work_experienceRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.view_staff_in_wardsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.view_sum_medicationRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.view_sum_staff_in_wardsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.WardsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.admitted_wardRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.apply_wardsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.medicineRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.patientRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.staffRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.TreatmentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.bedRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.roomRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.Work_inRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.Work_in_viewRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.MedicationRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.view_medicationRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.view_search_shiftRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.view_sum_patientRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.view_apply_wardsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.qulificationRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.work_experienceRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.view_staff_in_wardsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.view_sum_medicationRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSet.view_sum_staff_in_wardsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSetTableAdapters.WardsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSetTableAdapters.admitted_wardTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSetTableAdapters.apply_wardsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSetTableAdapters.medicineTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSetTableAdapters.patientTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSetTableAdapters.staffTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSetTableAdapters.TreatmentTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSetTableAdapters.bedTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSetTableAdapters.roomTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSetTableAdapters.Work_inTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSetTableAdapters.Work_in_viewTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSetTableAdapters.MedicationTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSetTableAdapters.view_medicationTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSetTableAdapters.view_search_shiftTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSetTableAdapters.view_sum_patientTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSetTableAdapters.view_apply_wardsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSetTableAdapters.qulificationTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSetTableAdapters.work_experienceTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSetTableAdapters.view_staff_in_wardsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSetTableAdapters.view_sum_medicationTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSetTableAdapters.view_sum_staff_in_wardsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:project_g11.wellmeadows_hospitalDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(project_g11.wellmeadows_hospitalDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:project_g11.wellmeadows_hospitalDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(project_g11.wellmeadows_hospitalDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:project_g11.wellmeadows_hospitalDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(project_g11.wellmeadows_hospitalDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:project_g11.wellmeadows_hospitalDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:project_g11.wellmeadows_hospitalDataSetTableAdapters.TableAdapterManager.UpdateAll(project_g11.wellmeadows_hospitalDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:project_g11.wellmeadows_hospitalDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
